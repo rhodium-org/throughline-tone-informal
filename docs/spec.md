@@ -18,7 +18,7 @@ It carries
 5
 <!-- tl:end --> principles and
 <!-- tl:count type == 'system_requirement' -->
-10
+11
 <!-- tl:end --> rules.
 
 ## Purpose
@@ -67,6 +67,7 @@ It carries
 |---|---|---|---|
 | SR-0003 | system_requirement | approved | Open with a warm, casual greeting |
 | SR-0004 | system_requirement | approved | Use the reader's first name naturally |
+| SR-0011 | system_requirement | approved | Close with a warm, casual sign-off |
 <!-- tl:end -->
 
 ## 3. Use warm, conversational vocabulary

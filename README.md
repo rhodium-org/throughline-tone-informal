@@ -36,7 +36,7 @@ change. A task like *"a plain, informal, UK-English community page"* becomes a
 <!-- tl:end --> principles as `user_requirement`s, each `derives_from` the root
 intent, and
 <!-- tl:count type == 'system_requirement' -->
-10
+11
 <!-- tl:end --> rules as `system_requirement`s, each `implements` its principle. The
 published spec is generated from the graph at [`docs/spec.md`](docs/spec.md).
 
