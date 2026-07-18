@@ -1,0 +1,11 @@
+uid: SR-0006
+type: system_requirement
+status: approved
+title: "Expressive intensifiers are fine in moderation"
+text: "Expressive intensifiers such as \"really\", \"so\" or \"loads\" are fine in moderation."
+links:
+- target: UR-0003
+  type: implements
+attrs:
+  source_ref: "TBS Tone — Informal register — Vocabulary register"
+  principle: UR-0003

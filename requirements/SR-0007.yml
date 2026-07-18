@@ -1,0 +1,11 @@
+uid: SR-0007
+type: system_requirement
+status: approved
+title: "Use friendly imperatives and invitations"
+text: "Use friendly imperatives and invitations, for example \"Give us a shout\" or \"Feel free to\"."
+links:
+- target: UR-0004
+  type: implements
+attrs:
+  source_ref: "TBS Tone — Informal register — Directness"
+  principle: UR-0004

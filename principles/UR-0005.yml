@@ -1,0 +1,10 @@
+uid: UR-0005
+type: user_requirement
+status: approved
+title: "Be warm, personable and encouraging"
+text: "Use genuine warmth, encouragement and gentle humour."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Tone — Informal register — Warmth and social signals"

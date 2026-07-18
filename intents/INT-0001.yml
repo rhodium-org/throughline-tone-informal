@@ -1,0 +1,8 @@
+uid: INT-0001
+type: intent
+status: approved
+title: "Text sounds consistently warm and informal"
+text: "An informal register is warm, personable and close to speech. It suits community, lifestyle, consumer and internal-team writing, where a friendly, human voice builds rapport and the reader would find stiffness off-putting. This axis governs register — how the writing sounds relative to the reader relationship — not readability, spelling or punctuation, each of which is a separate source. Register variants are mutually exclusive: a consumer composes exactly one of the formal, neutral or informal sibling sources."
+normative: false
+attrs:
+  source_ref: "TBS Tone — Informal register"

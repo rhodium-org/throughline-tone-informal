@@ -1,0 +1,10 @@
+uid: UR-0004
+type: user_requirement
+status: approved
+title: "Be direct but relaxed"
+text: "Give friendly, plain steers; asides are fine."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Tone — Informal register — Directness"

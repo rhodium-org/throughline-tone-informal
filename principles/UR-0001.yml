@@ -1,0 +1,10 @@
+uid: UR-0001
+type: user_requirement
+status: approved
+title: "Contract freely, as people speak"
+text: "Use contractions throughout so the writing sounds spoken."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Tone — Informal register — Contractions"

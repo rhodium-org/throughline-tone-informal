@@ -1,0 +1,11 @@
+uid: SR-0005
+type: system_requirement
+status: approved
+title: "Conversational words and common idiom are welcome"
+text: "Conversational words and common idiom are welcome where they aid connection."
+links:
+- target: UR-0003
+  type: implements
+attrs:
+  source_ref: "TBS Tone — Informal register — Vocabulary register"
+  principle: UR-0003

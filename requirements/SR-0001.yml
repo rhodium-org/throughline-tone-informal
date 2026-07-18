@@ -1,0 +1,11 @@
+uid: SR-0001
+type: system_requirement
+status: approved
+title: "Use contractions throughout"
+text: "Use contractions throughout, for example \"you'll\", \"we've\", \"it's\" and \"that's\", as people speak."
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: "TBS Tone — Informal register — Contractions"
+  principle: UR-0001

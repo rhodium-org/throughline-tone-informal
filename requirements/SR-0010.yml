@@ -1,0 +1,11 @@
+uid: SR-0010
+type: system_requirement
+status: approved
+title: "Gentle, inclusive humour is welcome"
+text: "Gentle, inclusive humour is welcome where it suits the reader and topic."
+links:
+- target: UR-0005
+  type: implements
+attrs:
+  source_ref: "TBS Tone — Informal register — Warmth and social signals"
+  principle: UR-0005
