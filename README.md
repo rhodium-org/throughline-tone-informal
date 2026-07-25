@@ -42,7 +42,7 @@ published spec is generated from the graph at [`docs/spec.md`](docs/spec.md).
 
 ## Source & licensing
 
-The rules are Time Back Solutions' own house tone guidance, licensed under Apache-2.0.
+The rules are original house tone guidance, licensed under Apache-2.0.
 They reproduce no third-party standard. Each rule records its register and tone
 dimension in `attrs.source_ref` and its owning principle in `attrs.principle`. See
 [`NOTICE`](NOTICE).
