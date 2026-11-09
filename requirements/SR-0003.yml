@@ -1,11 +1,12 @@
 uid: SR-0003
 type: system_requirement
-status: approved
-title: "Open with a warm, casual greeting"
-text: "Open with a warm, casual greeting, for example \"Hi [First name]\" or \"Hey\"."
+status: proposed
+title: Open with a warm, casual greeting
+text: Open with a warm, casual greeting, for example "Hi [First name]" or "Hey".
+normative: true
 links:
 - target: UR-0002
   type: implements
 attrs:
-  source_ref: "TBS Tone — Informal register — Address and greeting"
+  source_ref: TBS Tone — Informal register — Address and greeting
   principle: UR-0002

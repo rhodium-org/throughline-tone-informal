@@ -1,11 +1,12 @@
 uid: SR-0002
 type: system_requirement
-status: approved
-title: "Everyday shortenings are fine where they aid flow"
-text: "Everyday shortenings such as \"info\" or \"app\" are fine where they aid flow."
+status: proposed
+title: Everyday shortenings are fine where they aid flow
+text: Everyday shortenings such as "info" or "app" are fine where they aid flow.
+normative: true
 links:
 - target: UR-0001
   type: implements
 attrs:
-  source_ref: "TBS Tone — Informal register — Contractions"
+  source_ref: TBS Tone — Informal register — Contractions
   principle: UR-0001

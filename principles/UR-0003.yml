@@ -1,10 +1,11 @@
 uid: UR-0003
 type: user_requirement
-status: approved
-title: "Use warm, conversational vocabulary"
-text: "Everyday, expressive language is welcome where it aids connection."
+status: proposed
+title: Use warm, conversational vocabulary
+text: Everyday, expressive language is welcome where it aids connection.
+normative: true
 links:
 - target: INT-0001
   type: derives_from
 attrs:
-  source_ref: "TBS Tone — Informal register — Vocabulary register"
+  source_ref: TBS Tone — Informal register — Vocabulary register

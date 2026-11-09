@@ -1,10 +1,11 @@
 uid: UR-0002
 type: user_requirement
-status: approved
-title: "Address the reader like a familiar peer"
-text: "Be warm and personal in how you greet and name the reader."
+status: proposed
+title: Address the reader like a familiar peer
+text: Be warm and personal in how you greet and name the reader.
+normative: true
 links:
 - target: INT-0001
   type: derives_from
 attrs:
-  source_ref: "TBS Tone — Informal register — Address and greeting"
+  source_ref: TBS Tone — Informal register — Address and greeting

@@ -1,11 +1,12 @@
 uid: SR-0004
 type: system_requirement
-status: approved
-title: "Use the reader's first name naturally"
-text: "Use the reader's first name naturally through the text where it builds rapport."
+status: proposed
+title: Use the reader's first name naturally
+text: Use the reader's first name naturally through the text where it builds rapport.
+normative: true
 links:
 - target: UR-0002
   type: implements
 attrs:
-  source_ref: "TBS Tone — Informal register — Address and greeting"
+  source_ref: TBS Tone — Informal register — Address and greeting
   principle: UR-0002
